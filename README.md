@@ -125,5 +125,5 @@ Increase inventory of high-volume but low-value products (like envelopes) for B2
 
 ![Image](https://github.com/user-attachments/assets/da090928-7c65-4ccf-b185-e8d2c564a722)
 
-![Image](https://github.com/user-attachments/assets/d066445c-eaba-4131-ba36-773cc3db8f5c)
+![Image](https://github.com/user-attachments/assets/8331a676-fd4d-4e3d-bd50-89d9e368fb09)
 
