@@ -1,6 +1,6 @@
 # Sales-Analysis-Report
 🔍 Insights
-📊 Page 1: Overview
+# 📊 Page 1: Overview
 Year-To-Date (YTD) Performance:
 
 Total Sales: $302.8K
@@ -47,7 +47,7 @@ Canon imageCLASS 2200 leads significantly with $62K
 
 Other top products contribute between $20K–$27K
 
-📊 Page 2: Details
+# 📊 Page 2: Details
 City-wise Sales:
 
 New York City leads at $0.26M
@@ -80,44 +80,45 @@ Many low-ticket Office Supplies and Paper items are frequently sold in high volu
 
 Sub-Categories like Envelopes and Message Books are among top sellers by volume, though not by revenue
 
-✅ Recommendations
-Boost South Region Sales:
+# ✅ Recommendations
+
+1- Boost South Region Sales:
 
 Run targeted promotions or campaigns in the South to boost its contribution.
 
 Consider reviewing distributor performance or market demand in that region.
 
-Invest in High-Performing Categories:
+2- Invest in High-Performing Categories:
 
 Technology generates the highest revenue — introduce more SKUs or bundles.
 
 Explore cross-sell opportunities with Office Supplies and Furniture.
 
-Focus on Best-Selling Products:
+3- Focus on Best-Selling Products:
 
 The Canon imageCLASS printer is a clear winner. Push related accessories or service plans.
 
 Replicate the success strategy for other products.
 
-Customer Segmentation Strategy:
+4- Customer Segmentation Strategy:
 
 Consumer segment is your largest — offer loyalty programs or personalized marketing.
 
 Target Corporate and Home Office with tailored bundles.
 
-Leverage Regional Strengths:
+5- Leverage Regional Strengths:
 
 Central and West regions perform well — ensure logistics and inventory support further growth.
 
 Use insights from top-performing cities like NYC and LA to guide strategy in similar urban areas.
 
-Monitor Weekly Sales Volatility:
+6- Monitor Weekly Sales Volatility:
 
 Investigate reasons behind peaks and dips in the weekly trend.
 
 Smooth out performance via seasonal campaigns or consistent outreach.
 
-Expand Popular Sub-Categories:
+7- Expand Popular Sub-Categories:
 
 Increase inventory of high-volume but low-value products (like envelopes) for B2B bulk orders.
 
